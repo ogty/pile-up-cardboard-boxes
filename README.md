@@ -3,3 +3,7 @@
 <div align="center">
   <img src="main.svg">
 </div>
+
+<div align="center">
+  <img src="maze.svg">
+</div>
